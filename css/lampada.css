@@ -1,0 +1,9 @@
+.header_lamp, .main_lamp { 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    }
+
+    .btn{
+        width: 80px;
+    }
